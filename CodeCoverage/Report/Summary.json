@@ -1,0 +1,30 @@
+{
+  "summary": {
+    "generatedon": "2025-03-28T20:10:37Z",
+    "parser": "MultiReportParser (2x OpenCoverParser)",
+    "assemblies": 2,
+    "classes": 6,
+    "files": 6,
+    "coveredlines": 246,
+    "uncoveredlines": 8,
+    "coverablelines": 254,
+    "totallines": 380,
+    "linecoverage": 96.8,
+    "coveredbranches": 0,
+    "totalbranches": 0,
+    "coveredmethods": 26,
+    "totalmethods": 26,
+    "methodcoverage": 100
+ },
+  "coverage": {
+    "assemblies": [
+      { "name": "Assembly-CSharp", "classes": 3, "coverage": 94, "coveredlines": 127, "coverablelines": 135, "totallines": 206, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 15, "totalmethods": 15, "classesinassembly": [
+        { "name": "Cell", "coverage": 100, "coveredlines": 24, "coverablelines": 24, "totallines": 45, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 5, "totalmethods": 5 },
+        { "name": "CellView", "coverage": 92.8, "coveredlines": 39, "coverablelines": 42, "totallines": 62, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 5, "totalmethods": 5 },
+        { "name": "GameField", "coverage": 92.7, "coveredlines": 64, "coverablelines": 69, "totallines": 99, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 5, "totalmethods": 5 } ] },
+      { "name": "Assembly-CSharp-Editor", "classes": 3, "coverage": 100, "coveredlines": 119, "coverablelines": 119, "totallines": 174, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 11, "totalmethods": 11, "classesinassembly": [
+        { "name": "CellTests", "coverage": 100, "coveredlines": 35, "coverablelines": 35, "totallines": 56, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 5, "totalmethods": 5 },
+        { "name": "CellViewTests", "coverage": 100, "coveredlines": 34, "coverablelines": 34, "totallines": 48, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 2, "totalmethods": 2 },
+        { "name": "GameFieldTests", "coverage": 100, "coveredlines": 50, "coverablelines": 50, "totallines": 70, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 4, "totalmethods": 4 } ] } ]
+  }
+}
